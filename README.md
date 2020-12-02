@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Emma Harper 
+2. Student ID: 2369993
+3. Email: emharper@chapman.edu
+4. Class: CPSC-298-02
 5. Assignment: numbers 
 
 ## Application Purpose
@@ -20,6 +20,6 @@ A bash script named “numbers.sh” that will
 ## References
 
 ## Instructions
-To run the script with input from the included numbers-input file:
+To run the script with input from the included numbers-input file: ./numbers.sh < numbers-input
 ./numbers.sh < numbers-input
 
